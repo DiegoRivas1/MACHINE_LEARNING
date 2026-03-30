@@ -24,7 +24,7 @@ MACHINE_LEARNING/
 | # | Laboratorio | Temas |
 |---|---|---|
 | 01 | [Regresión Lineal](notebooks/lab_01_regresion_lineal.ipynb) | Modelo lineal, MSE, predicción |
-
+| 02 | [Regresión Logística](notebooks/lab_02_regresion_logistica.ipynb) | OLS vs logística, función sigmoide, métricas de clasificación | Sintético (`make_classification`) |
 > 🔄 Se irán agregando nuevos notebooks progresivamente.
 
 ---
