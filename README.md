@@ -1,6 +1,6 @@
 # 🤖 Machine Learning
 
-Repositorio de aprendizaje progresivo de Machine Learning con notebooks prácticos en Python.
+Repositorio de aprendizaje progresivo de Machine Learning con notebooks practicos en Python.
 
 ---
 
